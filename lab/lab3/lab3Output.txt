@@ -1,0 +1,7 @@
+
+The decimal value of / is: 47
+
+The square root of 47 is: 6.9
+
+PI printed to 6 decimal places is: 3.141593
+

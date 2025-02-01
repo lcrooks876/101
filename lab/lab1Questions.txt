@@ -1,0 +1,84 @@
+In lab, after connecting using Putty or SSH (on Windows) or Terminal 
+(on a Mac), you performed several actions using the Unix/Linux commands 
+to get your account and directories set up.  Do the following steps 
+below and answer the following questions. 
+
+
+1. What is the command to see where you are currently located:
+	(Type that command now)
+ls -l
+
+
+2. What command would you type to see a listing of everything that is in
+   location where you are currently located: 
+	(Type that command now)
+
+ls
+
+3. When you created a new directory for this course, what did you type: mkdir
+	
+
+
+4.	What would you type to get into the directory that you created for this 
+   course:
+	(Type that now so that you can get into that directory) cd 101
+
+
+
+5.	Now type the command to see the contents of that directory.  What 
+   items show up: ls
+
+
+
+
+6.	Type the command to change directories so that you are in the Lecture 
+   directory.  Then, create another directory called “Practice” (without 
+	the quotes; doesn’t have to be capitalized).  
+
+	What did you type to create that new directory called Practice:
+
+cd lecture
+mkdir Practice
+	
+
+
+7.	What is the command to get straight back to your home directory:
+   (Type that command now) cd
+
+
+
+8.	From your home directory, what is the one single command that you would 
+   type to see what is in your Lecture directory:
+	(Type that now to make sure it works) 
+
+
+
+9.	Using a single command, what would you type to change directories from 
+	where you are at your home directory to get into your Practice directory:
+	(Type that command now)
+
+
+
+10. Using the editor of your choice, create a file called   lab1.txt
+    What is the path on your account to this file?  
+	
+
+
+	 If you followed the above instructions, you should all have the same 
+	 path to the lab1.txt file (except for the userid).  And, by the way, by 
+	 default - nobody else has access to your files, so the TAs and your 
+	 instructor are not able to get onto your account and see what you have 
+	 there or read your files, etc.
+
+
+11. For this question, add some comments that express your thoughts so far
+	 about the lab, how you feel about connecting to a named machine, using 
+	 Linux, creating a file, which editor you think you may use, and any 
+	 other quick thoughts you have so far about this course.  
+
+
+12. Save this file.  Then rename the file to lab1Answers.txt and submit 
+    that file to Gradescope for the TAs to be able give you credit for 
+	 it and be able to read it your thoughts at this point.
+
+
