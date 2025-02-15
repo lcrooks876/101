@@ -1,0 +1,31 @@
+Lawton Crooks
+CPSC 1010
+Class 5.1
+Conditionals
+
+// Code 1
+
+
+#include <stdio.h>
+
+int main(void) {
+	int day;
+
+	if ((day > 2) && (day <= 6)) {
+		printf("Weekday\n");
+	}
+	else if (day == 7){
+		printf("Saturday\n");
+	}
+	else {
+		printf("Sunday\n");
+	}
+	. . .
+	return 0;
+	}
+
+
+
+Resource for conditional statements (copy and paste):
+
+cp /home/chochri/101/Chapters/Conditionals/* .

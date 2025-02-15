@@ -1,0 +1,53 @@
+Lawton Crooks
+Week 6.1
+
+DECLARING ARRAYS
+
+
+int nums[12] = {-45, 6, 0,...,
+
+char list[5] = { 'h', 'e', 'l', 'l', 'o'}
+
+double taxrate[3] = { 0.15, 0.25, 0.3 }
+
+double vector[100] = { 0.0 } 		// assigns zeros to all 100 elements
+
+int s[] = {5, 0, 5 };		// the size of s is 3
+
+
+DEFINED CONSTANT AS ARRAY SIZE
+
+- Use defined/name constant fo array size
+	- improves readability
+	- inprves versatility
+	- improves maintainability
+e.g.
+
+const int NUMBER_OF_STUDENTS = 50;
+
+int scores[NUMBER_OF_STUDENTS];
+
+or...
+
+#define NUMBER_OF_STUDENTS 50
+
+int scores[NUMBER_OF_STUDENTs];
+
+MULTIDIMENSION
+
+- two dimension
+
+	int a[3][4];
+
+
+
+	col 0	col 1	col 2	col 4
+row 1
+row 2
+row 3
+
+- three dimensions
+
+ACCESSING ARRAYS
+
+
